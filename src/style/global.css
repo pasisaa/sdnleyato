@@ -134,7 +134,9 @@ header nav ul.action-menu .nav-item .nav-link {
     .logo-sekolah{
         width:55px;
     }
-
+    .guru{
+        width: 700px !important;
+    }
     .img-b {
         display: block;
     }
