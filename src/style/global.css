@@ -131,6 +131,9 @@ header nav ul.action-menu .nav-item .nav-link {
     .carousel-caption h5 {
         font-size: 38px;
     }
+    .logo-sekolah{
+        width:50px;
+    }
 
     .img-b {
         display: block;
@@ -152,6 +155,9 @@ header nav ul.action-menu .nav-item .nav-link {
 
     .carousel-caption p {
         font-size: 13px;
+    }
+    .logo-sekolah{
+        width:50px;
     }
 
     .img-b {
